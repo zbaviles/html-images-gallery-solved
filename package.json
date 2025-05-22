@@ -4,12 +4,10 @@
   "description": "Relative paths building assignment.",
   "main": "index.js",
   "scripts": {
-    "browser-install": "npx playwright install chromium",
-    "deps-install": "npx playwright install-deps",
+    "browser-install": "npx playwright install-deps && npx playwright install chromium",
     "test": "npx playwright test",
     "test-ui": "npx playwright test --ui",
     "show-report": "npx playwright show-report",
-    "live-server": "npx live-server --port=5551",
     "test-main": "npx playwright test main-page-tests.spec.js",
     "test-modern-design": "npx playwright test modern-design-page-tests.spec.js",
     "test-nature": "npx playwright test nature-page-tests.spec.js",
