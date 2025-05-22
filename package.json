@@ -9,7 +9,6 @@
     "test": "npx playwright test",
     "test-ui": "npx playwright test --ui",
     "show-report": "npx playwright show-report",
-    "live-server": "npx live-server --port=5551",
     "test-main": "npx playwright test main-page-tests.spec.js",
     "test-modern-design": "npx playwright test modern-design-page-tests.spec.js",
     "test-nature": "npx playwright test nature-page-tests.spec.js",
