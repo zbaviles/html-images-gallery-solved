@@ -35,9 +35,9 @@ This assignment should prove that a student is able to:
 - [x] Initialize playwright and install project packages
   - [x] Use `npm i` to install packages
   - [x] Use `npm run browser-install` to install the browser environment for testing 
-- [ ] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] **The project's file/folder structure should NOT be edited!**
-- [ ] All the tests MUST pass. Fix the errors in case they don't BEFORE you submit (acceptance criteria)
+- [x] All the tasks of the "Specific requirements" section MUST be solved
+- [x] **The project's file/folder structure should NOT be edited!**
+- [x] All the tests MUST pass. Fix the errors in case they don't BEFORE you submit (acceptance criteria)
   - [x] Use `npm run test` to run all tests in the terminal
   - [x] Use `npm run test-main` to run index.html file tests
   - [x] Use `npm run test-modern-design` to run modern-design.html file tests
