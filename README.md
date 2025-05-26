@@ -32,9 +32,9 @@ This assignment should prove that a student is able to:
 - [x] Fork the project to your github account
 - [x] Clone the project to your computer
 - [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
-  - [ ] Use `npm i` to install packages
-  - [ ] Use `npm run browser-install` to install the browser environment for testing 
+- [x] Initialize playwright and install project packages
+  - [x] Use `npm i` to install packages
+  - [x] Use `npm run browser-install` to install the browser environment for testing 
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] **The project's file/folder structure should NOT be edited!**
 - [ ] All the tests MUST pass. Fix the errors in case they don't BEFORE you submit (acceptance criteria)
